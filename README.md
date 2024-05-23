@@ -2,7 +2,7 @@
 <h3 align="center">
   I'm a German software and game developer.
   <br>
-  I can code in Python and R, but I'm also learning HTML, CSS, C#, and JavaScript.
+  I can code in Python, HTML, CSS and R but I'm also learning C#, and JavaScript.
 </h3>
 
 <p align="right">hollysdeath</p>
