@@ -21,7 +21,3 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hollysdeath&show_icons=true&theme=nord" alt="hollysdeath's GitHub Stats">
-</p>
