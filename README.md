@@ -2,7 +2,7 @@
 <h3 align="center">
   I'm a German software and game developer.
   <br>
-  I can code in Python, HTML, CSS and R but I'm also learning C#, and JavaScript.
+  I can code in Python, C++, HTML, CSS and R but I'm also learning C#, and JavaScript.
 </h3>
 
 <p align="right">hollysdeath</p>
@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
