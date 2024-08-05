@@ -19,6 +19,6 @@
 <h2 align="center">contact</h2>
 <p align="center">
   <a href="https://telegram.me/hollysdeath">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+    <img src="https://img.shields.io/badge/telegram-7289DA?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
 </p>
