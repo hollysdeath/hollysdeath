@@ -16,4 +16,9 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
 
-
+<h2 align="center">contact</h2>
+<p align="center">
+  <a href="https://telegram.me/hollysdeath">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+  </a>
+</p>
