@@ -1,11 +1,11 @@
-<h1 align="center">Hello, I'm hollysdeath</h1>
+<h1 align="center">Hello, I'm eviscerating</h1>
 <h3 align="center">
   I'm a German software and game developer.
   <br>
-  I can code in Python, C++, HTML, CSS and R 
+  I can code in C++, Python, HTML, CSS and R 
 </h3>
 
-<p align="right">hollysdeath</p>
+<p align="right">eviscerating</p>
 
 <h2 align="center">Languages and Other Skills</h2>
 <p align="center">
@@ -18,7 +18,7 @@
 
 <h2 align="center">contact</h2>
 <p align="center">
-  <a href="https://telegram.me/hollysdeath">
+  <a href="https://telegram.me/esm391">
     <img src="https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
 </p>
